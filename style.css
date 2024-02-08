@@ -1,0 +1,127 @@
+.p {
+  color: cadetblue;
+  font-size: 2.5rem;
+  background-color: brown;
+}
+.s {
+  color: cadetblue;
+
+  background-color: blue;
+}
+.f {
+  color: cadetblue;
+
+  background-color: red;
+}
+.q {
+  color: cadetblue;
+  background-color: gold;
+}
+.aa {
+  align-items: center;
+  justify-content: center;
+  padding-left: 35rem;
+  padding-top: 20rem;
+}
+.aaa {
+  color: black;
+  text-decoration: none;
+  margin-left: 45rem;
+  background-color: azure;
+  padding: 1rem;
+  border-radius: 25px;
+}
+.aaaa {
+  color: black;
+  text-decoration: none;
+  margin-left: 7rem;
+  background-color: azure;
+  border-radius: 25px;
+  padding: 1rem;
+}
+/* .bbb {
+  color: black;
+  text-decoration: none;
+  margin-left: 45rem;
+  background-color: azure;
+  padding: 1rem;
+  border-radius: 25px;
+} */
+.bb {
+  align-items: center;
+  justify-content: center;
+  padding-left: 45rem;
+  margin-top: 26rem;
+  font-size: 3rem;
+}
+.bbb {
+  color: black;
+  text-decoration: none;
+  margin-left: 46rem;
+  background-color: azure;
+  padding: 1rem;
+  border-radius: 25px;
+  font-size: 2.5rem;
+  margin-top: 24rem;
+}
+.bbbb {
+  color: black;
+  text-decoration: none;
+  margin-left: 5rem;
+  background-color: azure;
+  padding: 1rem;
+  border-radius: 25px;
+  font-size: 2.5rem;
+}
+.cc {
+  align-items: center;
+  justify-content: center;
+  padding-left: 45rem;
+  margin-top: 26rem;
+  font-size: 3rem;
+}
+.ccc {
+  color: black;
+  text-decoration: none;
+  margin-left: 46rem;
+  background-color: azure;
+  padding: 1rem;
+  border-radius: 25px;
+  font-size: 2.5rem;
+  margin-top: 24rem;
+}
+.cccc {
+  color: black;
+  text-decoration: none;
+  margin-left: 5rem;
+  background-color: azure;
+  padding: 1rem;
+  border-radius: 25px;
+  font-size: 2.5rem;
+}
+.sss {
+  color: black;
+  text-decoration: none;
+  margin-left: 46rem;
+  background-color: azure;
+  padding: 1rem;
+  border-radius: 25px;
+  font-size: 2.5rem;
+  margin-top: 24rem;
+}
+.ssss {
+  color: black;
+  text-decoration: none;
+  margin-left: 5rem;
+  background-color: azure;
+  padding: 1rem;
+  border-radius: 25px;
+  font-size: 2.5rem;
+}
+.ss {
+  align-items: center;
+  justify-content: center;
+  padding-left: 45rem;
+  margin-top: 26rem;
+  font-size: 3rem;
+}
